@@ -19,15 +19,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" title="NestJS" alt="NestJS" width="40" height="40"/>
+  <img src="https://nestjs.com/img/logo-small.svg" title="NestJS" alt="NestJS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
 </div>
 
 ---
 
 <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=GabiiiSchneider&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img align="right" width="49%" src="https://streak-stats.demolab.com?user=GabiiiSchneider&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
-
+<img align="right" width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=GabiiiSchneider&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
 <br><br><br><br><br><br><br><br><br><br>
 
 ---
