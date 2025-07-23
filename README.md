@@ -1,32 +1,50 @@
-## Hi there 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&pause=1000&color=F975A8&width=300&lines=Welcome+to+my+GitHub!" />
 
-Sou a **Gabriela P. Schneider**, desenvolvedora que mora em **Balneário Camboriú (SC)**.  
-Gosto de **astronomia**, **jogos** e de **ler** nas horas vagas.
+<img src="https://img.shields.io/static/v1?label=Overview&message=GabiiiSchneider&color=f975a8&style=for-the-badge&logo=GitHub" alt="GitHub Overview Badge" />
 
 ---
 
-### 🚀 Tecnologias que uso
+## 👩‍💻 Sobre mim
 
-<div style="display: flex; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="NestJS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+- 🏠 Moro em **Balneário Camboriú (SC)**
+- ✨ Curto **astronomia**, **jogos** e **leitura**
+- 📚 Dev focada em escrever código limpo e funcional
+
+---
+
+## ⚙️ Tecnologias que uso
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" title="NestJS" alt="NestJS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
 </div>
 
 ---
 
+<img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=GabiiiSchneider&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img align="right" width="49%" src="https://streak-stats.demolab.com?user=GabiiiSchneider&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabiiiSchneider&show_icons=true&theme=radical&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabiiiSchneider&layout=compact&theme=radical" height="170" />
-</div>
+<br><br><br><br><br><br><br><br><br><br>
 
 ---
 
-### 📫 Onde me encontrar
+## 🌐 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-pires-schneider-78669027a/)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gabrielagps2005@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/gabriela-pires-schneider-78669027a/" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:gabrielagps2005@gmail.com" title="Email">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GabiiiSchneider&theme=gruvbox)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img width="100%" src="https://media1.tenor.com/m/K0_Toybd0QsAAAAd/disco-elysium-two-birds-on-a-wire.gif" align="center" />
