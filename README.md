@@ -4,9 +4,6 @@ Sou a **Gabriela P. Schneider**, desenvolvedora que mora em **Balneário Cambori
 Gosto de **astronomia**, **jogos** e de **ler** nas horas vagas.
 
 ---
-
-### 📊 Estatísticas do GitHub
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GabiiiSchneider&show_icons=true&theme=radical&count_private=true" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabiiiSchneider&layout=compact&theme=radical" height="170" />
