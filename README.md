@@ -25,8 +25,7 @@
 
 ---
 
-<img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=GabiiiSchneider&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img align="right" width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=GabiiiSchneider&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
+<img align="right" width="98%" src="https://github-readme-stats.vercel.app/api?username=GabiiiSchneider&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" alt="GitHub Stats" />
 <br><br><br><br><br><br><br><br><br><br>
 
 ---
