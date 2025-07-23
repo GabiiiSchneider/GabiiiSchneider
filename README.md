@@ -1,6 +1,6 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&pause=1000&color=F975A8&width=300&lines=Welcome+to+my+GitHub!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&pause=1000&color=228b22&width=300&lines=Welcome+to+my+GitHub!" />
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=GabiiiSchneider&color=f975a8&style=for-the-badge&logo=GitHub" alt="GitHub Overview Badge" />
+<img src="https://img.shields.io/static/v1?label=Overview&message=GabiiiSchneider&color=228b22&style=for-the-badge&logo=GitHub" alt="GitHub Overview Badge" />
 
 ---
 
@@ -45,4 +45,4 @@
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GabiiiSchneider&theme=gruvbox)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img width="100%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXRzZng4OWFqY2hkcm5lZGNlbXRwaWd3eGc5d2FyY2h5bDcwNXlnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4XnFRMNyXZ8UOlovlp/giphy.gif" align="center" />
+<img width="100%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTI3NjlhN3hjY2JuZXRqaGV1enBqMnFjMXFrZjd3NmY2ejVveTB6NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zMsALq60sVc0DkT1ta/giphy.gif" align="center" />
